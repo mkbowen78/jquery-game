@@ -1,0 +1,100 @@
+/*---------------------*/
+/* Body and background */
+/*---------------------*/
+body {
+  background-color: #666;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("../images/zombie-apocalypse-destruction.jpg");
+  font-family: 'Permanent Marker', cursive;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 100px;
+}
+
+.container-fluid {
+  color: #fff;
+}
+
+.sidebar {
+  background-color: green;
+}
+
+/*---------------------*/
+
+
+h1 {
+	font-family: sans-serif;
+	float: left;
+	color: #FFBC4F;
+	font-size: 50px;
+	margin: 20px;
+	line-height: 150%;
+}
+
+h2 {
+	font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+
+.fighters {
+	width: 100px;
+}
+
+.character {
+	border-color: black;
+	background-color: #666;
+	font-family: sans-serif;
+}
+
+.hero {
+	background-color: #447551;
+}
+
+.fighting {
+	background-color: #dd9e21;
+}
+
+#picking {
+	background-color: #000;
+	width: 600px;
+	height: 200px;
+  border-radius: 15px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.theCenter {
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.weapon {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+#restart {
+	font-family: sans-serif;
+	font-size: 22px;
+}
+
+#whathappens {
+	background-color: #000;
+  padding: 10px;
+	font-family: sans-serif;
+  font-size: 14px;
+}
+
+#winsloses {
+	background-color: #000;
+	font-family: 'Permanent Marker', cursive;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+	padding: 20px;
+
+}
